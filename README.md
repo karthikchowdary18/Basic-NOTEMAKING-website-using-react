@@ -9,7 +9,7 @@ This is a simple web application built with React.js that allows users to create
 3.The website just displays the note we can able to copy.
 ## Components
 ### App.jsx
-This is the main component of the application. It renders the Heading, NoteList and Footer components. It also handles the state of the application, which includes the notes array and the currently selected note.
+This is the main component of the application. It renders the Heading, Notes and Footer components. 
 
 ### Heading.jsx
 This component renders the application's header.
