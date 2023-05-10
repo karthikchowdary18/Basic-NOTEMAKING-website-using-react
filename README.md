@@ -1,5 +1,6 @@
 # React.js Note-Making Web Application
 This is a simple web application built with React.js that allows users to make simple notes. 
+we can able to see how the notemaking web app looks in this repo.
 
 ## Installation
 - Install dependencies: npm install
